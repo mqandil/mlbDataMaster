@@ -140,5 +140,5 @@ class ReadPitcherVsTeamYear():
 
 
 if __name__ == '__main__':
-    test = ReadPitcherVsTeamYear('Scherzer', 'Max', 'SD')
+    test = ReadPitcherVsTeamYear('Eovaldi', 'Nathan', 'TB')
     print(test.graphs())
